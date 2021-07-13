@@ -1,2 +1,3 @@
 # primerRepo
-Este es mi repositorio de prueba 
+
+Mi proyecto ideal seria.....
